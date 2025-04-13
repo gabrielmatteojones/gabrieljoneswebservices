@@ -97,9 +97,9 @@ body {
     background: rgba(0, 0, 0, 0.4); /* Overlay scuro */
   }
   .spazio-vuoto {
-    width: 300px;         /* Larghezza dello spazio */
-    height: 200px;        /* Altezza dello spazio */
-    background-color: #f0f0f0;  /* Colore di sfondo */
-    border: 2px dashed #ccc;   /* Bordo tratteggiato per evidenziare */
+    width: 0px;         /* Larghezza dello spazio */
+    height: 0px;        /* Altezza dello spazio */
+    background-color: #fff;  /* Colore di sfondo */
+    border: 0px;   /* Bordo tratteggiato per evidenziare */
     margin: 50px auto;    /* Centra il contenitore */
   }
