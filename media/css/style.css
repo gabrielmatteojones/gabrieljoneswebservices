@@ -138,3 +138,25 @@ body {
         max-width: 1140px;
       }
     }
+/* Stile per la riga */
+.row {
+  margin-top: 2rem;
+}
+
+/* Stile per le colonne */
+.col-sm {
+  background-color: #e7f1fa; /* Azzurro chiaro */
+  border: 1px solid #0073e6; /* Blu istituzionale */
+  padding: 1.5rem;
+  text-align: center;
+  font-weight: 500;
+  border-radius: 0.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Effetto hover */
+.col-sm:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 115, 230, 0.2);
+  background-color: #d6eaff;
+}
