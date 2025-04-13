@@ -160,3 +160,13 @@ body {
   box-shadow: 0 6px 12px rgba(0, 115, 230, 0.2);
   background-color: #d6eaff;
 }
+.title {
+  font-family: 'Arial', sans-serif; /* Imposta il font */
+  font-weight: bold; /* Rende il testo in grassetto */
+  color: #333; /* Colore del testo */
+  text-transform: uppercase; /* Trasforma il testo in maiuscolo */
+  font-size: 2rem; /* Imposta la dimensione del font */
+  margin-bottom: 1rem; /* Distanza inferiore */
+  text-align: center; /* Allinea il testo al centro */
+  letter-spacing: 2px; /* Aumenta la distanza tra le lettere */
+}
