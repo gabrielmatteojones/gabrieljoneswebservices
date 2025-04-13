@@ -161,7 +161,7 @@ body {
   background-color: #d6eaff;
 }
 .title {
-  font-family: 'Arial', sans-serif; /* Imposta il font */
+  font-family: 'Playfair Display', sans-serif; /* Imposta il font */
   font-weight: bold; /* Rende il testo in grassetto */
   color: #333; /* Colore del testo */
   text-transform: uppercase; /* Trasforma il testo in maiuscolo */
